@@ -4,3 +4,4 @@ My first repository.
 Author - Bhakti (Project)
 Machine learning project
 DYP
+project detail
