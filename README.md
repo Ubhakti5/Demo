@@ -1,4 +1,5 @@
 # Demo
 My first repository.
 <br>
-Author - Bhakti (Project)g
+Author - Bhakti (Project)
+Machine learning project
